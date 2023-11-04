@@ -9,6 +9,7 @@
   },
   "connectivity": [
     "wifi"
+    "bluetooth"
   ],
   "debug": {
     "openocd_target": "esp32c6.cfg"
