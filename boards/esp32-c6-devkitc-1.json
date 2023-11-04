@@ -7,7 +7,7 @@
     "mcu": "esp32c6"
   },
   "connectivity": [
-    "wifi"
+    "wifi",
     "bluetooth"
   ],
   "frameworks": [
